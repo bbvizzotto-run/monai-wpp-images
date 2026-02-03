@@ -1,10 +1,10 @@
-# Robustness of AI-Based Medical Imaging Under Real-World Image Compression: A MONAI Study on WhatsApp-Shared Radiographs
+# AI-Based Medical Imaging Under Real-World Image Compression
 
-This repository contains the source code and supporting resources for the article "Robustness of AI-Based Medical Imaging Under Real-World Image Compression: A MONAI Study on WhatsApp-Shared Radiographs", submitted to *Discover Artificial Intelligence* journal.
+This repository contains the source code and supporting resources for journal article to be update when published.
 
 ## Overview
 
-This study investigates the robustness of AI-assisted diagnostic performance in medical imaging under realistic image compression conditions, specifically on panoramic radiographs shared via WhatsApp. We utilize a MONAI-based deep learning pipeline to evaluate how lossy image compression affects diagnostic reliability, comparing the performance of human evaluators and AI models.
+This study utilize a MONAI-based deep learning pipeline to evaluate how lossy image compression affects diagnostic reliability, comparing the performance of human evaluators and AI models.
 
 ## Repository Structure
 

@@ -12,7 +12,6 @@ This study utilize a MONAI-based deep learning pipeline to evaluate how lossy im
 *   `src/`: Contains the source code for the MONAI pipeline, model training, and evaluation scripts.
     *   `src/monai_pipeline.py`: Main script for the MONAI deep learning pipeline.
     *   `src/evaluation_scripts.py`: Scripts for diagnostic performance evaluation (human and AI).
-*   `notebooks/`: Jupyter notebooks for data exploration, results visualization, and additional analyses.
 *   `models/`: Pre-trained models (if applicable and permitted).
 *   `results/`: Evaluation results, including metrics and visualizations.
 
@@ -21,7 +20,6 @@ This study utilize a MONAI-based deep learning pipeline to evaluate how lossy im
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/bbvizzotto-run/monai-wpp-images.git
-    cd Discover_AI_Robustness_Study
     ```
 2.  **Set Up Environment:**
     Install the necessary dependencies (Python 3.x, PyTorch, MONAI, etc.). A `requirements.txt` file will be provided in the `src/` folder.

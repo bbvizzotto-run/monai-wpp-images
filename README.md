@@ -36,4 +36,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For questions or suggestions, please contact Bruno Boessio Vizzotto (bbvizzotto@ufg.br).
+For questions or suggestions, please contact Bruno Boessio Vizzotto (brunovizzotto[at]unipampa.edu.br).

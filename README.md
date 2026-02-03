@@ -20,7 +20,7 @@ This study investigates the robustness of AI-assisted diagnostic performance in 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/bbvizzotto-run/Discover_AI_Robustness_Study.git
+    git clone https://github.com/bbvizzotto-run/monai-wpp-images.git
     cd Discover_AI_Robustness_Study
     ```
 2.  **Set Up Environment:**
